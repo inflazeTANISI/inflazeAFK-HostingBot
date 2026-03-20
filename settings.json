@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OnlyKingSMP.aternos.me",
-    "port": 61688,
+    "ip": "onlykingsmp.falixsrv.me",
+    "port": 22149,
     "version": "",
     "try-creative": false
   },
